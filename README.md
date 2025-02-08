@@ -39,3 +39,12 @@ The dataset includes health and lifestyle attributes, such as:
     ```bash
     pip install -r requirements.txt
     ```
+
+## Usage
+Run the Jupyter Notebook to reproduce the analysis and model results:
+    ```bash
+    jupyter notebook Prediccion_de_obesidad.ipynb
+    ```
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
