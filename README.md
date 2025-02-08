@@ -32,5 +32,10 @@ The dataset includes health and lifestyle attributes, such as:
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ObesityPredictionML.git
+    ```bash
+    git clone https://github.com/yourusername/ObesityPredictionML.git
+    ```
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
