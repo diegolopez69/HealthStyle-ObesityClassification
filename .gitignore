@@ -169,3 +169,35 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+# Ignore Python files
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.h5
+*.joblib
+
+# Ignore system files
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Jupyter Notebook metadata
+*.ipynb_checkpoints/
+
+# Ignore dataset files
+*.csv
+*.xlsx
+*.json
+
+# Ignore logs
+logs/
+*.log
